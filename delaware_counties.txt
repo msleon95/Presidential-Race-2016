@@ -1,0 +1,4 @@
+Vote by County	Clinton	Trump	Johnson
+New Castle	162919	85525	9107
+Sussex	39333	62611	2774
+Kent	33351	36991	2876
